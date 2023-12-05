@@ -1,4 +1,2 @@
-# Welcome
-## Quick Links
-- a
-- b
+# Helloe World!
+- add hello world video here later
