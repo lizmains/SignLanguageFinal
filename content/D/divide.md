@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube TXVyLSCfKVY >}}
 
-*Definition here*
+*a mathematical operation which involves the sharing of an amount into equal-sized groups*

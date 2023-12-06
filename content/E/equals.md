@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube es8ge6kbmFs >}}
 
-*Definition here*
+*be the same as in number or amount*

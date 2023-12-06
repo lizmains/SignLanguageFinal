@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube NCBAjc0zuUs >}}
 
-*Definition here*
+*a number that is not a fraction; a whole number.*

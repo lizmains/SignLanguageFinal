@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube PxRkdwTOPUg >}}
 
-*Definition here*
+*A node that is above and attached to another node *

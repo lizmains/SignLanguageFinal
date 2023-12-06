@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube YkcxqmpKo_U >}}
 
-*Definition here*
+*a unit of code that is often defined by its role within a greater code structure.*

@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube e4E34f48I_A >}}
 
-*Definition here*
+*an attribute associated with a piece of data that tells a computer system how to interpret its value.*

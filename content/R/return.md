@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube g1roVuuhi2s >}}
 
-*Definition here*
+*A return statement ends the execution of a function, and returns control to the calling function. *

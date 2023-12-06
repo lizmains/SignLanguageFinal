@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube I0W4uRdgp-k >}}
 
-*Definition here*
+*The study of computation, information, and automation.*

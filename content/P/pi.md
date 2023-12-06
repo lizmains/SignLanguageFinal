@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube 32fuxfZpMwk >}}
 
-*Definition here*
+*The number π is a mathematical constant that is the ratio of a circle's circumference to its diameter*

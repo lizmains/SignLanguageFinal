@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube JqNselu4960 >}}
 
-*Definition here*
+* a template definition of the methods and variables in a particular kind of object.*
