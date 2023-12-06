@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning Signs</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Learning Signs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Sep 2023 13:48:51 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Addition</title>
+      <link>http://example.org/basics/addition/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/basics/addition/</guid>
+      <description>Caption: Adding numbers</description>
+    </item>
+    
+    <item>
+      <title>Algorithm</title>
+      <link>http://example.org/basics/algorithm/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/basics/algorithm/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Alphabet</title>
+      <link>http://example.org/basics/alphabet/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/basics/alphabet/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Binary</title>
+      <link>http://example.org/b/binary/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/b/binary/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Bug</title>
+      <link>http://example.org/b/bug/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/b/bug/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Child</title>
+      <link>http://example.org/c/child/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/c/child/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Class</title>
+      <link>http://example.org/c/class/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/c/class/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>http://example.org/c/code/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/c/code/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>http://example.org/c/coding/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/c/coding/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Computer Science</title>
+      <link>http://example.org/c/compsci/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/c/compsci/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Decimal</title>
+      <link>http://example.org/d/decimal/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/d/decimal/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Decode</title>
+      <link>http://example.org/d/decode/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/d/decode/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Divide</title>
+      <link>http://example.org/d/divide/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/d/divide/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>http://example.org/d/download/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/d/download/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Encrypt</title>
+      <link>http://example.org/e/encrypt/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/e/encrypt/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Equals</title>
+      <link>http://example.org/e/equals/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/e/equals/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>For Loop</title>
+      <link>http://example.org/f/forloop/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/f/forloop/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Function</title>
+      <link>http://example.org/f/function/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/f/function/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Integer</title>
+      <link>http://example.org/i/integer/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/i/integer/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>http://example.org/i/internet/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/i/internet/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Laptop</title>
+      <link>http://example.org/l/laptop/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/l/laptop/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Loop</title>
+      <link>http://example.org/l/loop/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/l/loop/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>http://example.org/m/math/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/m/math/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Method</title>
+      <link>http://example.org/m/method/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/m/method/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Multiply</title>
+      <link>http://example.org/m/multiply/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/m/multiply/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Node</title>
+      <link>http://example.org/n/node/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/n/node/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Number</title>
+      <link>http://example.org/n/number/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/n/number/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Object</title>
+      <link>http://example.org/o/object/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/o/object/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Operating System</title>
+      <link>http://example.org/o/opsys/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/o/opsys/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Or</title>
+      <link>http://example.org/o/or/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/o/or/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Parent</title>
+      <link>http://example.org/p/parent/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/p/parent/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Pi</title>
+      <link>http://example.org/p/pi/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/p/pi/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Repository</title>
+      <link>http://example.org/r/repository/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/r/repository/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Return</title>
+      <link>http://example.org/r/return/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/r/return/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Rubber Ducky</title>
+      <link>http://example.org/r/rubberducky/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/r/rubberducky/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Server</title>
+      <link>http://example.org/s/server/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/s/server/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Subtract</title>
+      <link>http://example.org/s/subtract/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/s/subtract/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Type</title>
+      <link>http://example.org/t/type/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/t/type/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Unequal</title>
+      <link>http://example.org/u/unequal/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/u/unequal/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Upload</title>
+      <link>http://example.org/u/upload/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/u/upload/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Virus</title>
+      <link>http://example.org/v/virus/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/v/virus/</guid>
+      <description>Definition here</description>
+    </item>
+    
+  </channel>
+</rss>

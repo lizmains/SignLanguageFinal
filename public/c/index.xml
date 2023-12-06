@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C on Learning Signs</title>
+    <link>http://example.org/c/</link>
+    <description>Recent content in C on Learning Signs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Sep 2023 13:48:51 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/c/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Child</title>
+      <link>http://example.org/c/child/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/c/child/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Class</title>
+      <link>http://example.org/c/class/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/c/class/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>http://example.org/c/code/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/c/code/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>http://example.org/c/coding/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/c/coding/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Computer Science</title>
+      <link>http://example.org/c/compsci/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/c/compsci/</guid>
+      <description>Definition here</description>
+    </item>
+    
+  </channel>
+</rss>

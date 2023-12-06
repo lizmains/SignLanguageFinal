@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/basics/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/b/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/c/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/d/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/e/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/f/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/i/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/l/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/m/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/n/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/o/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/p/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/r/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/s/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/t/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/u/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/v/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/basics/addition/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/basics/algorithm/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/basics/alphabet/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/b/binary/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/b/bug/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/c/child/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/c/class/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/c/code/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/c/coding/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/c/compsci/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/d/decimal/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/d/decode/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/d/divide/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/d/download/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/e/encrypt/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/e/equals/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/f/forloop/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/f/function/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/i/integer/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/i/internet/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/l/laptop/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/l/loop/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/m/math/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/m/method/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/m/multiply/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/n/node/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/n/number/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/o/object/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/o/opsys/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/o/or/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/p/parent/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/p/pi/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/r/repository/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/r/return/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/r/rubberducky/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/s/server/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/s/subtract/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/t/type/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/u/unequal/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/u/upload/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/v/virus/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2023-09-10T13:48:51-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>

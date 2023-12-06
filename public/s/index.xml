@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S on Learning Signs</title>
+    <link>http://example.org/s/</link>
+    <description>Recent content in S on Learning Signs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Sep 2023 13:48:51 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/s/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Server</title>
+      <link>http://example.org/s/server/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/s/server/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Subtract</title>
+      <link>http://example.org/s/subtract/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/s/subtract/</guid>
+      <description>Definition here</description>
+    </item>
+    
+  </channel>
+</rss>

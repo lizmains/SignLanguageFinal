@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>U on Learning Signs</title>
+    <link>http://example.org/u/</link>
+    <description>Recent content in U on Learning Signs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Sep 2023 13:48:51 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/u/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unequal</title>
+      <link>http://example.org/u/unequal/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/u/unequal/</guid>
+      <description>Definition here</description>
+    </item>
+    
+    <item>
+      <title>Upload</title>
+      <link>http://example.org/u/upload/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
+      
+      <guid>http://example.org/u/upload/</guid>
+      <description>Definition here</description>
+    </item>
+    
+  </channel>
+</rss>
