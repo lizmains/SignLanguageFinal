@@ -17,7 +17,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/b/binary/</guid>
-      <description>Definition here</description>
+      <description>binary is a system where numbers and values are expressed 0 or 1. Binary is base-2, meaning that it only uses two digits or bits. For computers, 1 is true or &amp;ldquo;on&amp;rdquo;, and 0 is false or &amp;ldquo;off&amp;rdquo;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/b/bug/</guid>
-      <description>Definition here</description>
+      <description>In computer science, a &amp;ldquo;bug&amp;rdquo; is simply a term for a coding error, the process of discovering bugs is refered to as &amp;ldquo;debugging&amp;rdquo;</description>
     </item>
     
   </channel>

@@ -26,7 +26,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/basics/algorithm/</guid>
-      <description>Definition here</description>
+      <description>a list set of instructions, used to solve problems or perform tasks, based on the understanding of available alternatives, like making a recipe.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/basics/alphabet/</guid>
-      <description>Definition here</description>
+      <description>The word &amp;ldquo;alphabet&amp;rdquo; is said as &amp;ldquo;ABC&amp;rdquo; in ASL but fingerspelling is a foundation of ASL, and is often used when a certain sign is not known.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/b/binary/</guid>
-      <description>Definition here</description>
+      <description>binary is a system where numbers and values are expressed 0 or 1. Binary is base-2, meaning that it only uses two digits or bits. For computers, 1 is true or &amp;ldquo;on&amp;rdquo;, and 0 is false or &amp;ldquo;off&amp;rdquo;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/b/bug/</guid>
-      <description>Definition here</description>
+      <description>In computer science, a &amp;ldquo;bug&amp;rdquo; is simply a term for a coding error, the process of discovering bugs is refered to as &amp;ldquo;debugging&amp;rdquo;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/c/child/</guid>
-      <description>Definition here</description>
+      <description>An element that is nested within another element.</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/c/class/</guid>
-      <description>Definition here</description>
+      <description>    a template definition of the methods and variables in a particular kind of object.*  </description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/c/code/</guid>
-      <description>Definition here</description>
+      <description>the composition of sequences of instructions, called programs, that computers can follow to perform tasks.</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/c/coding/</guid>
-      <description>Definition here</description>
+      <description>the composition of sequences of instructions, called programs, that computers can follow to perform tasks.</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/c/compsci/</guid>
-      <description>Definition here</description>
+      <description>The study of computation, information, and automation.</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/d/decimal/</guid>
-      <description>Definition here</description>
+      <description>relating to or denoting a system of numbers and arithmetic based on the number ten, tenth parts, and powers of ten</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/d/decode/</guid>
-      <description>Definition here</description>
+      <description>To convert an encoded message into an itelligible language</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/d/divide/</guid>
-      <description>Definition here</description>
+      <description>a mathematical operation which involves the sharing of an amount into equal-sized groups</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/d/download/</guid>
-      <description>Definition here</description>
+      <description>copy (data) from one computer system to another, typically over the internet.</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/e/encrypt/</guid>
-      <description>Definition here</description>
+      <description>convert (information or data) into a cipher or code, especially to prevent unauthorized access.</description>
     </item>
     
     <item>
@@ -152,7 +152,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/e/equals/</guid>
-      <description>Definition here</description>
+      <description>be the same as in number or amount</description>
     </item>
     
     <item>
@@ -161,7 +161,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/f/forloop/</guid>
-      <description>Definition here</description>
+      <description>runs a section of code repeatedly until a certain condition has been satisfied. For-loops have two parts: a header and a body.</description>
     </item>
     
     <item>
@@ -170,7 +170,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/f/function/</guid>
-      <description>Definition here</description>
+      <description>a unit of code that is often defined by its role within a greater code structure.</description>
     </item>
     
     <item>
@@ -179,7 +179,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/i/integer/</guid>
-      <description>Definition here</description>
+      <description>a number that is not a fraction; a whole number.</description>
     </item>
     
     <item>
@@ -188,7 +188,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/i/internet/</guid>
-      <description>Definition here</description>
+      <description>a global computer network providing a variety of information and communication facilities, consisting of interconnected networks using standardized communication protocols.</description>
     </item>
     
     <item>
@@ -197,7 +197,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/l/laptop/</guid>
-      <description>Definition here</description>
+      <description>a computer that is portable and suitable for use while traveling.</description>
     </item>
     
     <item>
@@ -206,7 +206,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/l/loop/</guid>
-      <description>Definition here</description>
+      <description>a sequence of instructions that is continually repeated until a certain condition is reached.</description>
     </item>
     
     <item>
@@ -215,7 +215,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/m/math/</guid>
-      <description>Definition here</description>
+      <description>area of knowledge that includes the topics of numbers, formulas and related structures, shapes and the spaces in which they are contained, and quantities and their changes.</description>
     </item>
     
     <item>
@@ -224,7 +224,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/m/method/</guid>
-      <description>Definition here</description>
+      <description>a procedure associated with a class. A method defines the behavior of the objects that are created from the class.</description>
     </item>
     
     <item>
@@ -233,7 +233,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/m/multiply/</guid>
-      <description>Definition here</description>
+      <description>A mathematical operation that indicates how many times a number is added to itself.</description>
     </item>
     
     <item>
@@ -242,7 +242,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/n/node/</guid>
-      <description>Definition here</description>
+      <description>Nodes are a basic data structure which contain data and one or more links to other nodes. Nodes can be used to represent a tree structure or a linked list.</description>
     </item>
     
     <item>
@@ -251,7 +251,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/n/number/</guid>
-      <description>Definition here</description>
+      <description>an arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations and for showing order in a series or for identification.</description>
     </item>
     
     <item>
@@ -260,7 +260,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/o/object/</guid>
-      <description>Definition here</description>
+      <description>an object is an abstract data type with the addition of polymorphism and inheritance. Rather than structure programs as code and data, an object-oriented system integrates the two using the concept of an &amp;ldquo;object&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -269,7 +269,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/o/opsys/</guid>
-      <description>Definition here</description>
+      <description>the software that supports a computer&amp;rsquo;s basic functions, such as scheduling tasks, executing applications, and controlling peripherals.</description>
     </item>
     
     <item>
@@ -278,7 +278,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/o/or/</guid>
-      <description>Definition here</description>
+      <description>A boolean expression that is given two inputs, the output is &amp;ldquo;true&amp;rdquo; if either or both of the inputs are &amp;ldquo;true.&amp;rdquo; If both inputs are &amp;ldquo;false,&amp;rdquo; then the output is &amp;ldquo;false.&amp;quot;</description>
     </item>
     
     <item>
@@ -287,7 +287,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/p/parent/</guid>
-      <description>Definition here</description>
+      <description>*A node that is above and attached to another node *</description>
     </item>
     
     <item>
@@ -296,7 +296,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/p/pi/</guid>
-      <description>Definition here</description>
+      <description>The number π is a mathematical constant that is the ratio of a circle&amp;rsquo;s circumference to its diameter</description>
     </item>
     
     <item>
@@ -305,7 +305,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/r/repository/</guid>
-      <description>Definition here</description>
+      <description>A repository, or repo, is computer storage for maintaining data or software packages. This location contains files, databases, or information organized for quick access over a network or directly.</description>
     </item>
     
     <item>
@@ -314,7 +314,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/r/return/</guid>
-      <description>Definition here</description>
+      <description>*A return statement ends the execution of a function, and returns control to the calling function. *</description>
     </item>
     
     <item>
@@ -323,7 +323,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/r/rubberducky/</guid>
-      <description>Definition here</description>
+      <description>THE FOUNDATION OF COMPUTER SCIENCE, WITNESS ITS POWER!</description>
     </item>
     
     <item>
@@ -332,7 +332,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/s/server/</guid>
-      <description>Definition here</description>
+      <description>a computer or system that provides resources, data, services, or programs to other computers, known as clients, over a network.</description>
     </item>
     
     <item>
@@ -341,7 +341,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/s/subtract/</guid>
-      <description>Definition here</description>
+      <description>take away (a number or amount) from another to calculate the difference.</description>
     </item>
     
     <item>
@@ -350,7 +350,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/t/type/</guid>
-      <description>Definition here</description>
+      <description>an attribute associated with a piece of data that tells a computer system how to interpret its value.</description>
     </item>
     
     <item>
@@ -359,7 +359,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/u/unequal/</guid>
-      <description>Definition here</description>
+      <description>to not be the same as in number or amount.</description>
     </item>
     
     <item>
@@ -368,7 +368,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/u/upload/</guid>
-      <description>Definition here</description>
+      <description>*the transmission of data from a local device to a remote device. Typically, the remote device is a larger server. *</description>
     </item>
     
     <item>

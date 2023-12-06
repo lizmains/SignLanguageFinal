@@ -130,273 +130,273 @@
 	"title": "Algorithm",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   a list set of instructions, used to solve problems or perform tasks, based on the understanding of available alternatives, like making a recipe.\n"
 },
 {
 	"uri": "http://example.org/basics/alphabet/",
 	"title": "Alphabet",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   The word \u0026ldquo;alphabet\u0026rdquo; is said as \u0026ldquo;ABC\u0026rdquo; in ASL but fingerspelling is a foundation of ASL, and is often used when a certain sign is not known.\n"
 },
 {
 	"uri": "http://example.org/b/binary/",
 	"title": "Binary",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   binary is a system where numbers and values are expressed 0 or 1. Binary is base-2, meaning that it only uses two digits or bits. For computers, 1 is true or \u0026ldquo;on\u0026rdquo;, and 0 is false or \u0026ldquo;off\u0026rdquo;\n"
 },
 {
 	"uri": "http://example.org/b/bug/",
 	"title": "Bug",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   In computer science, a \u0026ldquo;bug\u0026rdquo; is simply a term for a coding error, the process of discovering bugs is refered to as \u0026ldquo;debugging\u0026rdquo;\n"
 },
 {
 	"uri": "http://example.org/c/child/",
 	"title": "Child",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   An element that is nested within another element.\n"
 },
 {
 	"uri": "http://example.org/c/class/",
 	"title": "Class",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "    a template definition of the methods and variables in a particular kind of object.*  "
 },
 {
 	"uri": "http://example.org/c/code/",
 	"title": "Code",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   the composition of sequences of instructions, called programs, that computers can follow to perform tasks.\n"
 },
 {
 	"uri": "http://example.org/c/coding/",
 	"title": "Coding",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   the composition of sequences of instructions, called programs, that computers can follow to perform tasks.\n"
 },
 {
 	"uri": "http://example.org/c/compsci/",
 	"title": "Computer Science",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   The study of computation, information, and automation.\n"
 },
 {
 	"uri": "http://example.org/d/decimal/",
 	"title": "Decimal",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   relating to or denoting a system of numbers and arithmetic based on the number ten, tenth parts, and powers of ten\n"
 },
 {
 	"uri": "http://example.org/d/decode/",
 	"title": "Decode",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   To convert an encoded message into an itelligible language\n"
 },
 {
 	"uri": "http://example.org/d/divide/",
 	"title": "Divide",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   a mathematical operation which involves the sharing of an amount into equal-sized groups\n"
 },
 {
 	"uri": "http://example.org/d/download/",
 	"title": "Download",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   copy (data) from one computer system to another, typically over the internet.\n"
 },
 {
 	"uri": "http://example.org/e/encrypt/",
 	"title": "Encrypt",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   convert (information or data) into a cipher or code, especially to prevent unauthorized access.\n"
 },
 {
 	"uri": "http://example.org/e/equals/",
 	"title": "Equals",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   be the same as in number or amount\n"
 },
 {
 	"uri": "http://example.org/f/forloop/",
 	"title": "For Loop",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   runs a section of code repeatedly until a certain condition has been satisfied. For-loops have two parts: a header and a body.\n"
 },
 {
 	"uri": "http://example.org/f/function/",
 	"title": "Function",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   a unit of code that is often defined by its role within a greater code structure.\n"
 },
 {
 	"uri": "http://example.org/i/integer/",
 	"title": "Integer",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   a number that is not a fraction; a whole number.\n"
 },
 {
 	"uri": "http://example.org/i/internet/",
 	"title": "Internet",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   a global computer network providing a variety of information and communication facilities, consisting of interconnected networks using standardized communication protocols.\n"
 },
 {
 	"uri": "http://example.org/l/laptop/",
 	"title": "Laptop",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   a computer that is portable and suitable for use while traveling.\n"
 },
 {
 	"uri": "http://example.org/l/loop/",
 	"title": "Loop",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   a sequence of instructions that is continually repeated until a certain condition is reached.\n"
 },
 {
 	"uri": "http://example.org/m/math/",
 	"title": "Math",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   area of knowledge that includes the topics of numbers, formulas and related structures, shapes and the spaces in which they are contained, and quantities and their changes.\n"
 },
 {
 	"uri": "http://example.org/m/method/",
 	"title": "Method",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   a procedure associated with a class. A method defines the behavior of the objects that are created from the class.\n"
 },
 {
 	"uri": "http://example.org/m/multiply/",
 	"title": "Multiply",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   A mathematical operation that indicates how many times a number is added to itself.\n"
 },
 {
 	"uri": "http://example.org/n/node/",
 	"title": "Node",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   Nodes are a basic data structure which contain data and one or more links to other nodes. Nodes can be used to represent a tree structure or a linked list.\n"
 },
 {
 	"uri": "http://example.org/n/number/",
 	"title": "Number",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   an arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations and for showing order in a series or for identification.\n"
 },
 {
 	"uri": "http://example.org/o/object/",
 	"title": "Object",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   an object is an abstract data type with the addition of polymorphism and inheritance. Rather than structure programs as code and data, an object-oriented system integrates the two using the concept of an \u0026ldquo;object\u0026rdquo;.\n"
 },
 {
 	"uri": "http://example.org/o/opsys/",
 	"title": "Operating System",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   the software that supports a computer\u0026rsquo;s basic functions, such as scheduling tasks, executing applications, and controlling peripherals.\n"
 },
 {
 	"uri": "http://example.org/o/or/",
 	"title": "Or",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   A boolean expression that is given two inputs, the output is \u0026ldquo;true\u0026rdquo; if either or both of the inputs are \u0026ldquo;true.\u0026rdquo; If both inputs are \u0026ldquo;false,\u0026rdquo; then the output is \u0026ldquo;false.\u0026quot;\n"
 },
 {
 	"uri": "http://example.org/p/parent/",
 	"title": "Parent",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   *A node that is above and attached to another node *\n"
 },
 {
 	"uri": "http://example.org/p/pi/",
 	"title": "Pi",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   The number π is a mathematical constant that is the ratio of a circle\u0026rsquo;s circumference to its diameter\n"
 },
 {
 	"uri": "http://example.org/r/repository/",
 	"title": "Repository",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   A repository, or repo, is computer storage for maintaining data or software packages. This location contains files, databases, or information organized for quick access over a network or directly.\n"
 },
 {
 	"uri": "http://example.org/r/return/",
 	"title": "Return",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   *A return statement ends the execution of a function, and returns control to the calling function. *\n"
 },
 {
 	"uri": "http://example.org/r/rubberducky/",
 	"title": "Rubber Ducky",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   THE FOUNDATION OF COMPUTER SCIENCE, WITNESS ITS POWER!\n"
 },
 {
 	"uri": "http://example.org/s/server/",
 	"title": "Server",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   a computer or system that provides resources, data, services, or programs to other computers, known as clients, over a network.\n"
 },
 {
 	"uri": "http://example.org/s/subtract/",
 	"title": "Subtract",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   take away (a number or amount) from another to calculate the difference.\n"
 },
 {
 	"uri": "http://example.org/t/type/",
 	"title": "Type",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   an attribute associated with a piece of data that tells a computer system how to interpret its value.\n"
 },
 {
 	"uri": "http://example.org/u/unequal/",
 	"title": "Unequal",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   to not be the same as in number or amount.\n"
 },
 {
 	"uri": "http://example.org/u/upload/",
 	"title": "Upload",
 	"tags": [],
 	"description": "",
-	"content": "   Definition here\n"
+	"content": "   *the transmission of data from a local device to a remote device. Typically, the remote device is a larger server. *\n"
 },
 {
 	"uri": "http://example.org/v/virus/",

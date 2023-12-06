@@ -17,7 +17,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/i/integer/</guid>
-      <description>Definition here</description>
+      <description>a number that is not a fraction; a whole number.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/i/internet/</guid>
-      <description>Definition here</description>
+      <description>a global computer network providing a variety of information and communication facilities, consisting of interconnected networks using standardized communication protocols.</description>
     </item>
     
   </channel>

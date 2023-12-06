@@ -17,7 +17,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/p/parent/</guid>
-      <description>Definition here</description>
+      <description>*A node that is above and attached to another node *</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/p/pi/</guid>
-      <description>Definition here</description>
+      <description>The number π is a mathematical constant that is the ratio of a circle&amp;rsquo;s circumference to its diameter</description>
     </item>
     
   </channel>

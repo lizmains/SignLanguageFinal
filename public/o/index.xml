@@ -17,7 +17,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/o/object/</guid>
-      <description>Definition here</description>
+      <description>an object is an abstract data type with the addition of polymorphism and inheritance. Rather than structure programs as code and data, an object-oriented system integrates the two using the concept of an &amp;ldquo;object&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/o/opsys/</guid>
-      <description>Definition here</description>
+      <description>the software that supports a computer&amp;rsquo;s basic functions, such as scheduling tasks, executing applications, and controlling peripherals.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/o/or/</guid>
-      <description>Definition here</description>
+      <description>A boolean expression that is given two inputs, the output is &amp;ldquo;true&amp;rdquo; if either or both of the inputs are &amp;ldquo;true.&amp;rdquo; If both inputs are &amp;ldquo;false,&amp;rdquo; then the output is &amp;ldquo;false.&amp;quot;</description>
     </item>
     
   </channel>

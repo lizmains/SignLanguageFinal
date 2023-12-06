@@ -17,7 +17,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/r/repository/</guid>
-      <description>Definition here</description>
+      <description>A repository, or repo, is computer storage for maintaining data or software packages. This location contains files, databases, or information organized for quick access over a network or directly.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/r/return/</guid>
-      <description>Definition here</description>
+      <description>*A return statement ends the execution of a function, and returns control to the calling function. *</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/r/rubberducky/</guid>
-      <description>Definition here</description>
+      <description>THE FOUNDATION OF COMPUTER SCIENCE, WITNESS ITS POWER!</description>
     </item>
     
   </channel>

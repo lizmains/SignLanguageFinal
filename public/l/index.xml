@@ -17,7 +17,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/l/laptop/</guid>
-      <description>Definition here</description>
+      <description>a computer that is portable and suitable for use while traveling.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/l/loop/</guid>
-      <description>Definition here</description>
+      <description>a sequence of instructions that is continually repeated until a certain condition is reached.</description>
     </item>
     
   </channel>

@@ -17,7 +17,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/m/math/</guid>
-      <description>Definition here</description>
+      <description>area of knowledge that includes the topics of numbers, formulas and related structures, shapes and the spaces in which they are contained, and quantities and their changes.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/m/method/</guid>
-      <description>Definition here</description>
+      <description>a procedure associated with a class. A method defines the behavior of the objects that are created from the class.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/m/multiply/</guid>
-      <description>Definition here</description>
+      <description>A mathematical operation that indicates how many times a number is added to itself.</description>
     </item>
     
   </channel>

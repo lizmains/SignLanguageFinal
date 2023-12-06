@@ -17,7 +17,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/c/child/</guid>
-      <description>Definition here</description>
+      <description>An element that is nested within another element.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/c/class/</guid>
-      <description>Definition here</description>
+      <description>    a template definition of the methods and variables in a particular kind of object.*  </description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/c/code/</guid>
-      <description>Definition here</description>
+      <description>the composition of sequences of instructions, called programs, that computers can follow to perform tasks.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/c/coding/</guid>
-      <description>Definition here</description>
+      <description>the composition of sequences of instructions, called programs, that computers can follow to perform tasks.</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Sun, 10 Sep 2023 13:48:51 -0400</pubDate>
       
       <guid>http://example.org/c/compsci/</guid>
-      <description>Definition here</description>
+      <description>The study of computation, information, and automation.</description>
     </item>
     
   </channel>
