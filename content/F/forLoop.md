@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube 4xV_fEx__Mk >}}
 
-*Definition here*
+*runs a section of code repeatedly until a certain condition has been satisfied. For-loops have two parts: a header and a body.*

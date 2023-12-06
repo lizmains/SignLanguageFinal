@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube GaJkWbho5kY >}}
 
-*Definition here*
+*Nodes are a basic data structure which contain data and one or more links to other nodes. Nodes can be used to represent a tree structure or a linked list.*

@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube IZnWwmTZZ-Q >}}
 
-*Definition here*
+*An element that is nested within another element.*

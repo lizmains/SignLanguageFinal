@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube GW5jwE4Tu0k >}}
 
-*Definition here*
+*a computer that is portable and suitable for use while traveling.*

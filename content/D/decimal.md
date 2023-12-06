@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube s_neFYQejmk >}}
 
-*Definition here*
+*relating to or denoting a system of numbers and arithmetic based on the number ten, tenth parts, and powers of ten*

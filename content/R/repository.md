@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube T3zjgXQwp3I >}}
 
-*Definition here*
+*A repository, or repo, is computer storage for maintaining data or software packages. This location contains files, databases, or information organized for quick access over a network or directly.*

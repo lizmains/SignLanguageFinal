@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube PpkPEtPj-7g >}}
 
-*Definition here*
+*convert (information or data) into a cipher or code, especially to prevent unauthorized access.*

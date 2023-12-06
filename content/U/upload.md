@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube 2OA04Gx1lxw >}}
 
-*Definition here*
+*the transmission of data from a local device to a remote device. Typically, the remote device is a larger server. *

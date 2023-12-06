@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube mD_F1Wda2J4 >}}
 
-*Definition here*
+*a global computer network providing a variety of information and communication facilities, consisting of interconnected networks using standardized communication protocols.*

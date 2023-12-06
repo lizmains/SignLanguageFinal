@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube nJj6bd-3_7g >}}
 
-*Definition here*
+*a procedure associated with a class. A method defines the behavior of the objects that are created from the class.*

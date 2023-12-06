@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube fu5GzPtZrqk >}}
 
-*Definition here*
+*In computer science, a "bug" is simply a term for a coding error, the process of discovering bugs is refered to as "debugging"*
