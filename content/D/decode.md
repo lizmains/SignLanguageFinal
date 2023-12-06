@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube XtaM6BXnHTM >}}
 
-*Definition here*
+*To convert an encoded message into an itelligible language*

@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube OWUNqfbmrcs >}}
 
-*Definition here*
+*take away (a number or amount) from another to calculate the difference.*

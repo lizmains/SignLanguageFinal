@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube ozFozmFbtPk >}}
 
-*Definition here*
+*to not be the same as in number or amount.*

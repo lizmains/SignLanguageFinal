@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube r4ZsIvRi2I8 >}}
 
-*Definition here*
+*a list set of instructions, used to solve problems or perform tasks, based on the understanding of available alternatives, like making a recipe.*

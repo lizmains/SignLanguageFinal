@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube -uhm8MS-zQU >}}
 
-*Definition here*
+*a computer or system that provides resources, data, services, or programs to other computers, known as clients, over a network.*

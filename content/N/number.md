@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube HwoxWYuHXNk >}}
 
-*Definition here*
+*an arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations and for showing order in a series or for identification.*

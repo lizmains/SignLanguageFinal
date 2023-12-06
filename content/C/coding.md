@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube sX8rasaBs44 >}}
 
-*Definition here*
+*the composition of sequences of instructions, called programs, that computers can follow to perform tasks.*

@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube V22w_qbLoQE >}}
 
-*Definition here*
+*area of knowledge that includes the topics of numbers, formulas and related structures, shapes and the spaces in which they are contained, and quantities and their changes.*

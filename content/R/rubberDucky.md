@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube 8WX9t2en308 >}}
 
-*Definition here*
+*THE FOUNDATION OF COMPUTER SCIENCE, WITNESS ITS POWER!*

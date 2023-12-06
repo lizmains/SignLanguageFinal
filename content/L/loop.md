@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube aBAhVQDXpWY >}}
 
-*Definition here*
+*a sequence of instructions that is continually repeated until a certain condition is reached.*

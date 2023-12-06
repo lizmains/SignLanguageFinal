@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube gsAiWoEza6g >}}
 
-*Definition here*
+*the software that supports a computer's basic functions, such as scheduling tasks, executing applications, and controlling peripherals.*

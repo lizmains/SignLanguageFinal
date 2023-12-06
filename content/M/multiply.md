@@ -7,4 +7,4 @@ weight = 10
 
 {{< youtube DAaofPDSjV4 >}}
 
-*Definition here*
+*A mathematical operation that indicates how many times a number is added to itself.*
