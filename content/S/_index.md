@@ -3,5 +3,4 @@ archetype = "chapter"
 title = "S"
 weight = 1
 +++
-
-This is some stuff
+![](S.jpg?width=500px)
